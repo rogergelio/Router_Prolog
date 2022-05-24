@@ -1,0 +1,15 @@
+[shady_grove,rockville,twinbrook,white_flint,grosvenor_strathmore,medical_center,bethesda,friendship_heights,tenleytown_au,van_ness_udc,cleveland_park,woodley_park,dupont_circle,farragut_north,metro_center,mcpherson_sq,farragut_west,foggy_bottom,rosslyn,arlington_cementery,pentagon_city,crystal_city,national_airport].
+
+[branch_av,suitland,naylor_rd,southern_av,congress_heights,anacostia,navy_yard,waterfront_seu,lenfant_plaza,archives,gallery_chinatown,judiciary_square,union_station].
+
+[national_airport,crystal_city,pentagon_city,pentagon].
+
+[largo_town,morgan,addison_rd,capitol_heights,benning,stadium_armory].
+
+[greenbelt,college_park,prince_george,west_hyatsville,fort_totten,takoma,silver_spring,forest_glen,wheaton,glenmont].
+[king_st].
+[shady_grove,rockville].
+[greenbelt,college_park,prince_george].
+[crystal_city,pentagon_city,pentagon].
+[shady_grove,rockville,twinbrook,white_flint,grosvenor_strathmore,medical_center,bethesda,friendship_heights,tenleytown_au,van_ness_udc,cleveland_park,woodley_park,dupont_circle].
+[largo_town,morgan,addison_rd,capitol_heights,benning,stadium_armory].
